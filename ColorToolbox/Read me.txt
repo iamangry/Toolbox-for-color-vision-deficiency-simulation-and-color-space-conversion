@@ -1,0 +1,10 @@
+Use the GUI: Run colorconverter.mlapp
+
+Toolbox functions:
+conversion functions between various colorspace,
+dichromatic.m: Compute sRGB value for dichromacy vision,
+dichromaticImage.m: Convert rgb color image into dichromacy vision.
+
+All the dichromacy conversion matrices come from the computation in ConeFitCC.m and calculatelms2lms.m.
+
+Check the presentation slides (Present_Xingzhou Tu.pptx) to know more about the algorithm.
