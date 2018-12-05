@@ -8,3 +8,7 @@ Algorithm for cone response computation: Optimization based on CIE color matchin
 Reference: A. Stockman, D. I. A. MacLeod, and N. E. Johnson, ‘‘Spectral sensitivities of the human cones,’’ J. Opt. Soc. Am. A 10, 2491–2521 (1993).
 
 This is my course project of OPTI588 at College of Optical Science, University of Arizona. The algorithm for color space conversion is from the lecture note.
+
+![CIE xy gamut](conversion1.png)
+![Hue](conversion2.png)
+![Test image](conversion3.png)
